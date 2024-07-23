@@ -1,0 +1,3 @@
+/Users/Vittoria/CLionProjects/ActivityTracker/cmake-build-debug/CMakeFiles/ActivityTracker.dir
+/Users/Vittoria/CLionProjects/ActivityTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Vittoria/CLionProjects/ActivityTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
