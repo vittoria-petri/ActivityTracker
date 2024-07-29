@@ -12,6 +12,12 @@ private:
     int year;
 
 public:
-    Data(int d, int m, int y) : day(d), month(m), year(y) {}
+    Data() = default;
+    Data(int d, int m, int y);
+
+    void inputData();
+    void setData(int d, int m, int y);
+    void displayData() const;
 };
+
 #endif //ACTIVITYTRACKER_DATA_H

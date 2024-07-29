@@ -15,8 +15,6 @@ private:
 public:
     Activity(std::string activity, std::string desc, int time, std::string start, std::string end) :
     nameActivity(activity), description(desc), durationActivity(time), startActivity(start), endActivity(end) {}
-
-
 };
 
 #endif //ACTIVITYTRACKER_ACTIVITY_H

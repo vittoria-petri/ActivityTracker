@@ -1,8 +1,13 @@
-#include <iostream>
-#include <string>
+
 #include "Activity.h"
 #include "Register.h"
+#include "Data.h"
+
+using namespace std;
 
 int main() {
-    std::
+    Data data = Data();
+
+    data.inputData();
+    data.displayData();
 }
